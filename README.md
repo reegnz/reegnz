@@ -24,3 +24,10 @@ Tools I find essential for my work every day (totally incomplete with no particu
 - [gawk](https://www.gnu.org/software/gawk/) + [gsed](https://www.gnu.org/software/sed/) for the quick and dirty stuff
 - [curl](https://curl.se/) because obviously, DUUUH!
 - [git](https://git-scm.com/) and [delta](https://github.com/dandavison/delta) for those pretty diffs! 🤩
+
+Languages I prefer to work with:
+
+- [bash](https://google.github.io/styleguide/shellguide.html)
+- [python](https://www.python.org/)
+- [go](https://golang.org/)
+- [terraform](https://www.terraform.io/)
