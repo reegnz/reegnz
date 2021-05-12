@@ -30,4 +30,5 @@ Languages I prefer to work with:
 - [bash](https://google.github.io/styleguide/shellguide.html)
 - [python](https://www.python.org/)
 - [go](https://golang.org/)
+- [typescript](https://www.typescriptlang.org/)
 - [terraform](https://www.terraform.io/)
