@@ -25,7 +25,7 @@ Tools I find essential for my work every day (totally incomplete with no particu
 - [curl](https://curl.se/) because obviously, DUUUH!
 - [git](https://git-scm.com/) and [delta](https://github.com/dandavison/delta) for those pretty diffs! 🤩
 
-Languages I prefer to work with:
+Languages I prefer to work with (in no particular order):
 
 - [bash](https://google.github.io/styleguide/shellguide.html)
 - [python](https://www.python.org/)
