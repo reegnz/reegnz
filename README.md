@@ -2,7 +2,7 @@
 
 I am a CLI hacker passionate about the terminal.
 
-Tools I find essential for my work every day (totally incomplete with no particular order):
+Tools I find essential at my work every day (totally incomplete with no particular order):
 
 - [iTerm2](https://iterm2.com/) for terminal emulation
 - [zsh](https://www.zsh.org/) + [oh-my-zsh](https://ohmyz.sh) + [powerlevel10k](https://github.com/romkatv/powerlevel10k)
