@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate CLI hacker living in a terminal 8x5.
+I am a passionate CLI hacker passionate about terminal-based work.
 
 Tools I find essential for my work every day (totally incomplete with no particular order):
 
