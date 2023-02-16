@@ -1,17 +1,20 @@
 ### Hi there 👋
 
-I am a passionate CLI hacker passionate about terminal-based work.
+I am a CLI hacker passionate about the terminal.
 
 Tools I find essential for my work every day (totally incomplete with no particular order):
 
 - [iTerm2](https://iterm2.com/) for terminal emulation
 - [zsh](https://www.zsh.org/) + [oh-my-zsh](https://ohmyz.sh) + [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-- [vim](https://www.vim.org/) + [vim-plug](https://github.com/junegunn/vim-plug) and 
-  [a](https://github.com/tpope/vim-sensible)
-  [bunch](https://github.com/easymotion/vim-easymotion) 
-  [of](https://github.com/preservim/nerdtree)
-  [awesome](https://github.com/dense-analysis/ale)
-  [plugins](https://github.com/airblade/vim-gitgutter) for text editing needs
+- [neovim](https://neovim.io/) + my favourite plugins
+  - https://github.com/tpope - anything from this nobody
+  - https://github.com/justinmk/vim-sneak
+  - https://github.com/stsewd/gx-extended.vim
+  - https://github.com/williamboman/mason.nvim
+  - https://github.com/hrsh7th/nvim-cmp
+  - https://github.com/SirVer/ultisnips
+  - https://github.com/nvim-treesitter/nvim-treesitter
+  - see complete list of what I'm using in my [dotfiles](https://github.com/reegnz/dotfiles/blob/master/nvim/.config/nvim/plug.vim)
 - I also use [vscode](https://code.visualstudio.com/) sometimes but 🤫
 - [direnv](https://direnv.net/) to handle contextual things instead of me
 - [exa](https://the.exa.website/) because ls is sooooo last millennium...
@@ -30,5 +33,6 @@ Languages I prefer to work with (in no particular order):
 - [bash](https://google.github.io/styleguide/shellguide.html)
 - [python](https://www.python.org/)
 - [go](https://golang.org/)
+- [lua](https://www.lua.org/)
 - [typescript](https://www.typescriptlang.org/)
 - [terraform](https://www.terraform.io/)
