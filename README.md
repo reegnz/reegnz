@@ -7,7 +7,7 @@ Tools I find essential at my work every day (totally incomplete with no particul
 - [iTerm2](https://iterm2.com/) for terminal emulation
 - [zsh](https://www.zsh.org/) + [oh-my-zsh](https://ohmyz.sh) + [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [neovim](https://neovim.io/) + my favourite plugins
-  - https://github.com/tpope - anything from this nobody
+  - https://github.com/tpope - anything from this dood
   - https://github.com/justinmk/vim-sneak
   - https://github.com/stsewd/gx-extended.vim
   - https://github.com/williamboman/mason.nvim
